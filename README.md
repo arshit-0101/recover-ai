@@ -10,7 +10,7 @@ Instead of blindly retrying every failed payment, RecoverAI evaluates transactio
 
 ## 🚨 Problem
 
-Payment failures can result in significant revenue loss.
+Payment failures can result in significant revenue loss..
 
 A simple recovery strategy such as:
 
